@@ -58,7 +58,7 @@
 - 📍 Dhaka, Bangladesh  
 - 📧 [masumshahriar11@gmail.com](mailto:masumshahriar11@gmail.com)  
 - 📞 +8801518465254  
-- 🔗 [LinkedIn: Abdur Rahman](https://www.linkedin.com/in/your-linkedin)  
+- 🔗 [LinkedIn: Abdur Rahman]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdur-rahman-771524195/)  
 - 🌐 [Portfolio Website](https://abdurrahman.github.io)
 
 ---
